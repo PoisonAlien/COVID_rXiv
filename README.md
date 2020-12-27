@@ -14,6 +14,11 @@ This repository contains code for Visualizing COVID19 meta data from public sour
 <img src="RKI_covid19.gif" height="400">
 </p>
 
+## BioNTech/Pfizer mrna11889 vaccine sequence
+<p align="left">
+<img src="mrna11889_vac_seq.png" height="400">
+</p>
+
 ### Requiremnets
 
 1. [data.table](https://github.com/Rdatatable/data.table)
