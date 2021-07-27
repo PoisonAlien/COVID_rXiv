@@ -14,6 +14,12 @@ This repository contains code for Visualizing COVID19 meta data from public sour
 <img src="RKI_covid19.gif" height="400">
 </p>
 
+<p align="left">
+<img src="https://preview.redd.it/nevd6ufxs4761.gif?format=mp4&s=367ffa4a41a55e210a4e912a12f533ee3a4769ea" height="400">
+</p>
+
+
+
 ## BioNTech/Pfizer mrna11889 vaccine sequence
 <p align="left">
 <img src="mrna11889_vac_seq.png" height="400">
