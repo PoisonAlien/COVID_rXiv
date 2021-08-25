@@ -68,5 +68,3 @@ for(row_idx in 1:nrow(vac)){
   dev.off()
 }
 system(command = "convert -loop 0 -delay 3 tmp_pngs/*.png DE_vaccination.gif")
-
-
